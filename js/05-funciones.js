@@ -1,3 +1,4 @@
+//Funcio declarativa
 // function saludar() {
 //     const pantalla = document.getElementById(`pantalla`)
 //     pantalla.innerHTML += `Hola mundo EmojiWorld`
